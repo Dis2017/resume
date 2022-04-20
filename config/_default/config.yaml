@@ -1,0 +1,44 @@
+baseURL: "http://localhost/"
+languageCode: "zh-cn"
+DefaultContentLanguage: "zh-cn"
+
+# 远程样式
+#theme: "github.com/lxndrblz/anatole"
+# 本地
+theme: "anatole"
+
+# 摘要
+summarylength: 10
+enableEmoji: true
+enableRobotsTXT: true
+
+# Enable Disqus
+#disqusShortname: ""
+
+# Google Analytics
+#googleAnalytics: "UA-123-45"
+
+# Syntax highlighting
+pygmentsUseClasses: true
+pygmentsCodeFences: true
+pygmentsCodefencesGuessSyntax: true
+
+markup:
+    goldmark:
+        renderer:
+          unsafe: true
+
+taxonomies:
+    category: "categories"
+    series: "series"
+    tag: "tags"
+
+related:
+  includeNewer: true
+  threshold: 80
+  toLower: true
+  indices:
+  - name: 'keywords'
+    weight: 100
+  - name: 'tags'
+    weight: 80

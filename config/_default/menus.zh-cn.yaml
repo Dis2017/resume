@@ -1,0 +1,31 @@
+main:
+  - name: "主页"
+    identifier: "主页"
+    weight: 100
+    url: "/"
+
+  - name: "文章"
+    weight: 200
+    identifier: "文章"
+    url: "/passages/"
+
+  - name: "视频"
+    weight: 300
+    identifier: "视频"
+    url: "/videos/"
+
+  - name: "关于"
+    weight: 400
+    identifier: "关于"
+    url: "/about/"
+
+  - name: "联系我"
+    weight: 500
+    identifier: "联系我"
+    url: "/contact/"
+
+#footer:
+#  name: "imprint"
+#  weight: 1
+#  identifier: "imprint"
+#  url: "/imprint/"
