@@ -1,18 +1,18 @@
 author: "姚娟"
 #copyright: "2020-2021"
 description: "人物介绍"
-profilePicture: "profile.png"
+profilePicture: "avatar.jpg"
 keywords: ""
-favicon: "favicons/"
+#favicon: "favicons/"
 # example ["css/custom.css"]
 customCss: [ ]
 # example ["js/custom.js"]
 customJs: [ ]
 mainSections: [ "passages" ]
-images: [ "images/site-feature-image.png" ]
-doNotLoadAnimations: true
+#images: [ "images/site-feature-image.png" ]
+doNotLoadAnimations: false
 #fullPostContent: true
-contentRatio: 0.99
+contentRatio: 0.65
 #contentratio: 0.5
 # Form Spree Contact Form
 #contactFormAction: "https://formspree.io/f/your-form-hash-here"
@@ -20,9 +20,9 @@ contentRatio: 0.99
 #googleFonts: ["Indie+Flower", "Roboto:ital,wght@0,100;0,400;0,700;1,400"]
 # Google Site Verify
 #googleSiteVerify: "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
-singleDateFormat: "2/1/2006"
-indexDateFormat: "2/1/2006"
-listDateFormat: "2/1/2006"
+singleDateFormat: "2006年 01月 02日"
+indexDateFormat: "2006年 01月 02日"
+listDateFormat: "2006年 01月 02日"
 # Commento Comments
 # CommentoURL: "https://commento.example.com/js/commento.js"
 # Read More links for truncated summaries

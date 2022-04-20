@@ -1,0 +1,35 @@
+{{ define "main" }}
+    <div style="
+                width: 80%;
+                padding: 2%;
+                border-radius: 15px;
+                box-shadow: 10px 10px 35px grey;
+                margin: 2% auto;
+">
+        <table style="margin: 0 auto; text-align: center;">
+            <tr>
+                <td style="width: 50%">
+                    <h1>自我介绍</h1>
+                    <p>{{ .Site.Data.about.introduce }}</p>
+                </td>
+                <td style="padding-top: 5%;">
+                    <img style="width: 90%;" alt="公众号二维码" src="{{ .Site.Data.about.gzhQCodeUrl | relURL }}" />
+                    <br>
+                    公众号
+                </td>
+                <td style="padding-top: 5%;">
+                    <img style="width: 90%;" alt="邮箱二维码" src="{{ .Site.Data.about.mailQCodeUrl | relURL }}" />
+                    <br>
+                    邮箱
+                </td>
+            </tr>
+        </table>
+
+        {{ range .Site.Data.about.pictures }}
+        <div class="post__thumbnail-wrapper">
+            <img style="height: auto;" class="post__thumbnail" src="{{ . | relURL }}">
+        </div>
+        {{ end }}
+
+    </div>
+{{ end }}

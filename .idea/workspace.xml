@@ -1,34 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="889a4aac-1bf8-4fff-ad87-9fea5a1216d2" name="变更" comment="" />
+    <list default="true" id="e0fa550d-f0c7-4e71-8d64-08db40a28269" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/resume.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/about/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/scripts/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/about.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layouts/about/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/gzh-q-code.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/_default/config.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/_default/config.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/_default/languages.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/_default/languages.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/_default/menus.zh-cn.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/_default/menus.zh-cn.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/_default/params.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/_default/params.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/anatole.scss_dcc8b7002348ef29d44bd1c4b6ae0aca.content" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/anatole.scss_dcc8b7002348ef29d44bd1c4b6ae0aca.content" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/anatole.scss_dcc8b7002348ef29d44bd1c4b6ae0aca.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/anatole.scss_dcc8b7002348ef29d44bd1c4b6ae0aca.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/avatar.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/avatar.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/anatole" beforeDir="false" afterPath="$PROJECT_DIR$/themes/anatole" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/anatole/layouts/_default/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/anatole/layouts/_default/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/anatole/layouts/_default/single.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/anatole/layouts/_default/single.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/anatole/layouts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/anatole/layouts/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/anatole/layouts/partials/sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/anatole/layouts/partials/sidebar.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="HTML File" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="d1" />
-        <entry key="$PROJECT_DIR$/public" value="master" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="RESET_MODE" value="HARD" />
-    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="27ybfm31DGniRncR1E2rYiMT1sn" />
+  <component name="ProjectId" id="284BW5roREY7Y40JeLj9uSJAvKd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -36,80 +45,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/HUGO/resume/content/passages&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/HUGO/resume/content/scripts",
+    "nodejs_package_manager_path": "npm"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\HUGO\resume\content\passages" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\HUGO\resume\content" />
-      <recent name="D:\HUGO\resume\themes" />
+      <recent name="D:\HUGO\resume\content\scripts" />
+      <recent name="D:\HUGO\resume\content\about" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
-      <changelist id="889a4aac-1bf8-4fff-ad87-9fea5a1216d2" name="变更" comment="" />
-      <created>1650295380607</created>
+      <changelist id="e0fa550d-f0c7-4e71-8d64-08db40a28269" name="变更" comment="" />
+      <created>1650466005735</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1650295380607</updated>
-      <workItem from="1650295383158" duration="3557000" />
-      <workItem from="1650371308798" duration="5697000" />
-      <workItem from="1650378405180" duration="6021000" />
-      <workItem from="1650424938204" duration="4123000" />
-      <workItem from="1650429873021" duration="1733000" />
-      <workItem from="1650432362450" duration="23222000" />
-      <workItem from="1650464229642" duration="1452000" />
-      <workItem from="1650465716786" duration="36000" />
+      <updated>1650466005735</updated>
+      <workItem from="1650466007330" duration="2495000" />
     </task>
-    <task id="LOCAL-00001" summary="12">
-      <created>1650427117065</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1650427117065</updated>
-    </task>
-    <task id="LOCAL-00002" summary="12">
-      <created>1650427551834</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1650427551834</updated>
-    </task>
-    <task id="LOCAL-00003" summary="12">
-      <created>1650427560943</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1650427560943</updated>
-    </task>
-    <task id="LOCAL-00004" summary="12">
-      <created>1650428103174</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1650428103174</updated>
-    </task>
-    <task id="LOCAL-00005" summary="12">
-      <created>1650428110894</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1650428110894</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,19 +82,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="master" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -140,17 +90,5 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <ignored-roots>
-      <path value="$PROJECT_DIR$/themes/themes/calligraphy" />
-      <path value="$PROJECT_DIR$/themes/LoveIt" />
-      <path value="$PROJECT_DIR$/themes/anatole" />
-      <path value="$PROJECT_DIR$/themes/calligraphy" />
-      <path value="$PROJECT_DIR$/themes/cocoa" />
-      <path value="$PROJECT_DIR$/themes/hugo-tranquilpeak-theme" />
-      <path value="$PROJECT_DIR$/themes/m10c" />
-      <path value="$PROJECT_DIR$/themes/soho" />
-    </ignored-roots>
-    <MESSAGE value="12" />
-    <option name="LAST_COMMIT_MESSAGE" value="12" />
   </component>
 </project>

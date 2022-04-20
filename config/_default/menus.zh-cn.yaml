@@ -4,25 +4,30 @@ main:
     weight: 100
     url: "/"
 
-  - name: "文章"
+  - name: "标签"
     weight: 200
-    identifier: "文章"
+    identifier: "标签"
+    url: "/tags/"
+
+  - name: "文案"
+    weight: 300
+    identifier: "文案"
     url: "/passages/"
 
+  - name: "脚本"
+    weight: 400
+    identifier: "脚本"
+    url: "/scripts/"
+
   - name: "视频"
-    weight: 300
+    weight: 500
     identifier: "视频"
     url: "/videos/"
 
-  - name: "关于"
-    weight: 400
-    identifier: "关于"
+  - name: "关于我"
+    weight: 600
+    identifier: "关于我"
     url: "/about/"
-
-  - name: "联系我"
-    weight: 500
-    identifier: "联系我"
-    url: "/contact/"
 
 #footer:
 #  name: "imprint"
