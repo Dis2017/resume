@@ -1,21 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e0fa550d-f0c7-4e71-8d64-08db40a28269" name="变更" comment="初步恢复">
+    <list default="true" id="e0fa550d-f0c7-4e71-8d64-08db40a28269" name="变更" comment="恢复框架">
+      <change afterPath="$PROJECT_DIR$/content/articles/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/images/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/images/三维建模——小房子.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/images/三维建模——小院子.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/images/三维建模——老式柜.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/images/三维建模——葡萄.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/images/三维建模——铁桶.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/images/平面设计——孔雀.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/images/平面设计——眼镜.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/images/平面设计——磁带.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/images/平面设计——蜻蜓.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/images/平面设计——鹤.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/images/板绘——圣诞.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/images/板绘——天坛.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/images/板绘——水墨江南.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/images/板绘——白蛇传.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/baishezhuan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/fan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/fang_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/jiJU.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/pu_tao.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/shendan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/shuimojiangnan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/tiantan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/tong.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/孔雀3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/眼镜5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/磁带1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/蜻蜓4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/鹤.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/_default/menus.zh-cn.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/_default/menus.zh-cn.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/_default/params.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/_default/params.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/passages/_index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/passages/测试.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/videos/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/videos/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/portfolio.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/about/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/about/list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/favicons/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/landscape.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/portfolio/code.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/profile.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/site-feature-image.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/anatole/layouts/_default/single.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/anatole/layouts/_default/single.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/_default/config.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/_default/config.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/anatole" beforeDir="false" afterPath="$PROJECT_DIR$/themes/anatole" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1650466005735</updated>
-      <workItem from="1650466007330" duration="4189000" />
+      <workItem from="1650466007330" duration="4873000" />
     </task>
     <task id="LOCAL-00001" summary="初步恢复">
       <created>1650468641004</created>
@@ -70,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650468641004</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="恢复框架">
+      <created>1650470261673</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1650470261673</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,6 +128,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="初步恢复" />
-    <option name="LAST_COMMIT_MESSAGE" value="初步恢复" />
+    <MESSAGE value="恢复框架" />
+    <option name="LAST_COMMIT_MESSAGE" value="恢复框架" />
   </component>
 </project>

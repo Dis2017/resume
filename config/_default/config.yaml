@@ -1,5 +1,5 @@
+baseURL: "https://disstudio.gitee.io/resume"
 #baseURL: "http://localhost/"
-baseURL: "http://localhost/"
 languageCode: "zh-cn"
 DefaultContentLanguage: "zh-cn"
 
