@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>关于我 on 作品集</title>
-    <link>http://localhost/about/</link>
+    <link>https://disstudio.gitee.io/resume/about/</link>
     <description>Recent content in 关于我 on 作品集</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language><atom:link href="http://localhost/about/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language><atom:link href="https://disstudio.gitee.io/resume/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

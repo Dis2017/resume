@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 作品集</title>
-    <link>http://localhost/tags/</link>
+    <link>https://disstudio.gitee.io/resume/tags/</link>
     <description>Recent content in Tags on 作品集</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 20 Apr 2022 23:39:53 +0800</lastBuildDate><atom:link href="http://localhost/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Apr 2022 23:39:53 +0800</lastBuildDate><atom:link href="https://disstudio.gitee.io/resume/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>板绘</title>
-      <link>http://localhost/tags/%E6%9D%BF%E7%BB%98/</link>
+      <link>https://disstudio.gitee.io/resume/tags/%E6%9D%BF%E7%BB%98/</link>
       <pubDate>Wed, 20 Apr 2022 23:39:53 +0800</pubDate>
       
-      <guid>http://localhost/tags/%E6%9D%BF%E7%BB%98/</guid>
+      <guid>https://disstudio.gitee.io/resume/tags/%E6%9D%BF%E7%BB%98/</guid>
       
         <description></description>
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>平面设计</title>
-      <link>http://localhost/tags/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/</link>
+      <link>https://disstudio.gitee.io/resume/tags/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/</link>
       <pubDate>Wed, 20 Apr 2022 23:39:53 +0800</pubDate>
       
-      <guid>http://localhost/tags/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/</guid>
+      <guid>https://disstudio.gitee.io/resume/tags/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/</guid>
       
         <description></description>
       
@@ -31,10 +31,10 @@
     
     <item>
       <title>三维建模</title>
-      <link>http://localhost/tags/%E4%B8%89%E7%BB%B4%E5%BB%BA%E6%A8%A1/</link>
+      <link>https://disstudio.gitee.io/resume/tags/%E4%B8%89%E7%BB%B4%E5%BB%BA%E6%A8%A1/</link>
       <pubDate>Wed, 20 Apr 2022 23:39:53 +0800</pubDate>
       
-      <guid>http://localhost/tags/%E4%B8%89%E7%BB%B4%E5%BB%BA%E6%A8%A1/</guid>
+      <guid>https://disstudio.gitee.io/resume/tags/%E4%B8%89%E7%BB%B4%E5%BB%BA%E6%A8%A1/</guid>
       
         <description></description>
       
@@ -42,10 +42,10 @@
     
     <item>
       <title>图片</title>
-      <link>http://localhost/tags/%E5%9B%BE%E7%89%87/</link>
+      <link>https://disstudio.gitee.io/resume/tags/%E5%9B%BE%E7%89%87/</link>
       <pubDate>Wed, 20 Apr 2022 23:39:53 +0800</pubDate>
       
-      <guid>http://localhost/tags/%E5%9B%BE%E7%89%87/</guid>
+      <guid>https://disstudio.gitee.io/resume/tags/%E5%9B%BE%E7%89%87/</guid>
       
         <description></description>
       
