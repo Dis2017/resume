@@ -1,7 +1,9 @@
-baseURL: "https://disstudio.gitee.io/resume"
-#baseURL: "http://localhost/"
+#baseURL: "https://disstudio.gitee.io/resume"
+baseURL: "http://localhost/"
 languageCode: "zh-cn"
 DefaultContentLanguage: "zh-cn"
+
+canonifyURLs: true
 
 # 远程样式
 #theme: "github.com/lxndrblz/anatole"
