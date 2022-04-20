@@ -3,6 +3,37 @@
   <component name="ChangeListManager">
     <list default="true" id="e0fa550d-f0c7-4e71-8d64-08db40a28269" name="变更" comment="Debug: Gitee Pages 无法显示样式">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/about/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/articles/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/articles/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/三维建模小房子/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/三维建模小房子/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/三维建模小院子/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/三维建模小院子/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/三维建模老式柜/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/三维建模老式柜/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/三维建模葡萄/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/三维建模葡萄/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/三维建模铁桶/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/三维建模铁桶/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/平面设计孔雀/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/平面设计孔雀/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/平面设计眼镜/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/平面设计眼镜/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/平面设计磁带/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/平面设计磁带/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/平面设计蜻蜓/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/平面设计蜻蜓/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/平面设计鹤/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/平面设计鹤/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/板绘圣诞/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/板绘圣诞/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/板绘天坛/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/板绘天坛/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/板绘水墨江南/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/板绘水墨江南/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/板绘白蛇传/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/板绘白蛇传/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/page/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/page/2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/scripts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/scripts/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/series/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/series/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/三维建模/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/三维建模/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/图片/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/图片/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/平面设计/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/平面设计/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/板绘/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/板绘/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/videos/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/videos/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/anatole" beforeDir="false" afterPath="$PROJECT_DIR$/themes/anatole" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/anatole/layouts/partials/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/anatole/layouts/partials/head.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/anatole/layouts/partials/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/anatole/layouts/partials/navbar.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -11,7 +42,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/themes/anatole" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -49,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1650466005735</updated>
-      <workItem from="1650466007330" duration="6512000" />
+      <workItem from="1650466007330" duration="7030000" />
     </task>
     <task id="LOCAL-00001" summary="初步恢复">
       <created>1650468641004</created>
@@ -107,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650472269530</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Debug: Gitee Pages 无法显示样式">
+      <created>1650472779536</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1650472779536</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
