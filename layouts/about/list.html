@@ -1,34 +1,32 @@
 {{ define "main" }}
     <div style="
-                width: 80%;
-                padding: 2%;
-                border-radius: 15px;
-                box-shadow: 10px 10px 35px grey;
+                width: 90%;
                 margin: 2% auto;
+                border-radius: 10px;
+                box-shadow: 5px 5px 20px grey;
+                padding: 2%;
 ">
-        <table style="margin: 0 auto; text-align: center;">
+        <table style="text-align: center; margin-bottom: 2%;">
             <tr>
-                <td style="width: 50%">
-                    <h1>自我介绍</h1>
-                    <p>{{ .Site.Data.about.introduce }}</p>
+                <td>
+                    <h1 style="text-align: center;">自我介绍</h1>
+                    <p style="width: 80%; margin: 0 auto;">{{ .Site.Data.about.introduce }}</p>
                 </td>
                 <td style="padding-top: 5%;">
-                    <img style="width: 90%;" alt="公众号二维码" src="{{ .Site.Data.about.gzhQCodeUrl | relURL }}" />
+                    <img style="width: 70%;" alt="公众号二维码" src="{{ .Site.Data.about.gzhQCodeUrl | relURL }}" />
                     <br>
                     公众号
                 </td>
                 <td style="padding-top: 5%;">
-                    <img style="width: 90%;" alt="邮箱二维码" src="{{ .Site.Data.about.mailQCodeUrl | relURL }}" />
+                    <img style="width: 70%;" alt="邮箱二维码" src="{{ .Site.Data.about.mailQCodeUrl | relURL }}" />
                     <br>
-                    邮箱
+                    <a href="mailto:1771628294@qq.com">邮箱</a>
                 </td>
             </tr>
         </table>
 
         {{ range .Site.Data.about.pictures }}
-        <div class="post__thumbnail-wrapper">
-            <img style="height: auto;" class="post__thumbnail" src="{{ . | relURL }}">
-        </div>
+        <img style="width: 100%; height: 25em; object-fit: cover;" src="{{ . | relURL }}">
         {{ end }}
 
     </div>

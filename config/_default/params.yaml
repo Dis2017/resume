@@ -8,7 +8,7 @@ keywords: ""
 customCss: [ ]
 # example ["js/custom.js"]
 customJs: [ ]
-mainSections: [ "passages" ]
+mainSections: [ "articles", "scripts", "videos", "images" ]
 #images: [ "images/site-feature-image.png" ]
 doNotLoadAnimations: false
 #fullPostContent: true

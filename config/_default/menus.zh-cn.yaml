@@ -12,7 +12,7 @@ main:
   - name: "文案"
     weight: 300
     identifier: "文案"
-    url: "/passages/"
+    url: "/articles/"
 
   - name: "脚本"
     weight: 400
@@ -24,8 +24,13 @@ main:
     identifier: "视频"
     url: "/videos/"
 
-  - name: "关于我"
+  - name: "图片"
     weight: 600
+    identifier: "图片"
+    url: "/images/"
+
+  - name: "关于我"
+    weight: 700
     identifier: "关于我"
     url: "/about/"
 

@@ -1,30 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e0fa550d-f0c7-4e71-8d64-08db40a28269" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/resume.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/about/_index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/scripts/_index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/about.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/about/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/banner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/gzh-q-code.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="e0fa550d-f0c7-4e71-8d64-08db40a28269" name="变更" comment="初步恢复">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/_default/config.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/_default/config.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/_default/languages.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/_default/languages.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/_default/menus.zh-cn.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/_default/menus.zh-cn.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/_default/params.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/_default/params.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/anatole.scss_dcc8b7002348ef29d44bd1c4b6ae0aca.content" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/anatole.scss_dcc8b7002348ef29d44bd1c4b6ae0aca.content" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/anatole.scss_dcc8b7002348ef29d44bd1c4b6ae0aca.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/anatole.scss_dcc8b7002348ef29d44bd1c4b6ae0aca.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/avatar.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/avatar.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/anatole" beforeDir="false" afterPath="$PROJECT_DIR$/themes/anatole" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/anatole/layouts/_default/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/anatole/layouts/_default/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/passages/_index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/passages/测试.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/videos/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/videos/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/portfolio.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/about/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/about/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/favicons/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/landscape.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/portfolio/code.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/profile.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/site-feature-image.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/anatole/layouts/_default/single.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/anatole/layouts/_default/single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/anatole/layouts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/anatole/layouts/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/anatole/layouts/partials/sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/anatole/layouts/partials/sidebar.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,8 +61,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1650466005735</updated>
-      <workItem from="1650466007330" duration="2495000" />
+      <workItem from="1650466007330" duration="4189000" />
     </task>
+    <task id="LOCAL-00001" summary="初步恢复">
+      <created>1650468641004</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1650468641004</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,7 +81,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -90,5 +101,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="初步恢复" />
+    <option name="LAST_COMMIT_MESSAGE" value="初步恢复" />
   </component>
 </project>
