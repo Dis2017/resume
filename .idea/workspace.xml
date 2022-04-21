@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e0fa550d-f0c7-4e71-8d64-08db40a28269" name="变更" comment="Debug: Gitee Pages 无法显示样式">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/about/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/about/list.html" afterDir="false" />
-    </list>
+    <list default="true" id="e0fa550d-f0c7-4e71-8d64-08db40a28269" name="变更" comment="Debug: about不显示动画" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +46,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1650466005735</updated>
-      <workItem from="1650466007330" duration="7165000" />
+      <workItem from="1650466007330" duration="7499000" />
     </task>
     <task id="LOCAL-00001" summary="初步恢复">
       <created>1650468641004</created>
@@ -121,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650473282090</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Debug: about不显示动画">
+      <created>1650473450861</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1650473450861</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,6 +160,7 @@
     <MESSAGE value="恢复框架" />
     <MESSAGE value="恢复图片" />
     <MESSAGE value="Debug: Gitee Pages 无法显示样式" />
-    <option name="LAST_COMMIT_MESSAGE" value="Debug: Gitee Pages 无法显示样式" />
+    <MESSAGE value="Debug: about不显示动画" />
+    <option name="LAST_COMMIT_MESSAGE" value="Debug: about不显示动画" />
   </component>
 </project>
