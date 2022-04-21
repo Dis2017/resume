@@ -5,6 +5,18 @@
     <link>https://disstudio.gitee.io/resume/videos/</link>
     <description>Recent content in 视频 on 作品集</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language><atom:link href="https://disstudio.gitee.io/resume/videos/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 21 Apr 2022 18:10:05 +0800</lastBuildDate><atom:link href="https://disstudio.gitee.io/resume/videos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://disstudio.gitee.io/resume/videos/test/</link>
+      <pubDate>Thu, 21 Apr 2022 18:10:05 +0800</pubDate>
+      
+      <guid>https://disstudio.gitee.io/resume/videos/test/</guid>
+      
+        <description></description>
+      
+    </item>
+    
   </channel>
 </rss>

@@ -3,7 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://disstudio.gitee.io/resume/</loc>
-    <lastmod>2022-04-20T23:39:53+08:00</lastmod>
+    <lastmod>2022-04-21T18:10:05+08:00</lastmod>
+  </url><url>
+    <loc>https://disstudio.gitee.io/resume/videos/test/</loc>
+    <lastmod>2022-04-21T18:10:05+08:00</lastmod>
+  </url><url>
+    <loc>https://disstudio.gitee.io/resume/videos/</loc>
+    <lastmod>2022-04-21T18:10:05+08:00</lastmod>
   </url><url>
     <loc>https://disstudio.gitee.io/resume/tags/</loc>
     <lastmod>2022-04-20T23:39:53+08:00</lastmod>
@@ -72,8 +78,6 @@
     <loc>https://disstudio.gitee.io/resume/about/</loc>
   </url><url>
     <loc>https://disstudio.gitee.io/resume/scripts/</loc>
-  </url><url>
-    <loc>https://disstudio.gitee.io/resume/videos/</loc>
   </url><url>
     <loc>https://disstudio.gitee.io/resume/articles/</loc>
   </url>
